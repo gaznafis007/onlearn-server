@@ -7,7 +7,7 @@
         "duration": "30 days",
         "total_enroll": "20",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.It is a very popular language, despite being old.C is strongly associated with UNIX, as it was developed to write the UNIX operating system."
     },
     {
         "id": "2",
@@ -17,7 +17,7 @@
         "duration": "30 days",
         "total_enroll": "400",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20."
     },
     {
         "id": "3",
@@ -27,7 +27,7 @@
         "duration": "60 days",
         "total_enroll": "15",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "C# is pronounced C-Sharp. It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.C# has roots from the C family, and the language is close to other popular languages like C++ and Java. The first version was released in year 2002. The latest version, C# 10, was released in November 2021."
     },
     {
         "id": "4",
@@ -37,7 +37,7 @@
         "duration": "90 days",
         "total_enroll": "520",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular."
     },
     {
         "id": "5",
@@ -47,7 +47,7 @@
         "duration": "120 days",
         "total_enroll": "30",
         "mentor": "Tamim Shahriar Subeen",
-        "course_details": ""
+        "course_details": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java. Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages"
     },
     {
         "id": "6",
@@ -57,7 +57,7 @@
         "duration": "90 days",
         "total_enroll": "1200",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
     },
     {
         "id": "7",
@@ -67,7 +67,7 @@
         "duration": "60 days",
         "total_enroll": "20",
         "mentor": "Abdul Awal",
-        "course_details": ""
+        "course_details": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
     },
     {
         "id": "8",
@@ -77,7 +77,7 @@
         "duration": "45 days",
         "total_enroll": "100",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug."
     },
     {
         "id": "9",
@@ -87,7 +87,7 @@
         "duration": "30 days",
         "total_enroll": "20",
         "mentor": "Tamim Shahriar Subeen",
-        "course_details": ""
+        "course_details": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support"
     },
     {
         "id": "10",
@@ -97,7 +97,7 @@
         "duration": "40 days",
         "total_enroll": "60",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "MySQL is a database management system. It may be anything from a simple shopping list to a picture gallery or the vast amounts of information in a corporate network. To add, access, and process data stored in a computer database, you need a database management system such as MySQL Server."
     },
     {
         "id": "11",
@@ -107,7 +107,7 @@
         "duration": "30 days",
         "total_enroll": "70",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information."
     },
     {
         "id": "12",
@@ -117,7 +117,7 @@
         "duration": "15 days",
         "total_enroll": "220",
         "mentor": "Miladunnabi",
-        "course_details": ""
+        "course_details": "Used to make professional-quality documents, letters, reports, etc., MS Word is a word processor developed by Microsoft. It has advanced features which allow you to format and edit your files and documents in the best possible way."
     },
     {
         "id": "13",
@@ -127,7 +127,7 @@
         "duration": "15 days",
         "total_enroll": "200",
         "mentor": "Anisul Haque",
-        "course_details": ""
+        "course_details": "MS PowerPoint is a program that is included in the Microsoft Office suite. It is used to make presentations for personal and professional purposes."
     },
     {
         "id": "14",
@@ -135,9 +135,9 @@
         "name": "Next.js",
         "course_img":"https://miro.medium.com/max/1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg",
         "duration": "30 days",
-        "total_enroll": "20",
+        "total_enroll": "07",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "Next.js is a React framework that gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application."
     },
     {
         "id": "15",
@@ -147,7 +147,7 @@
         "duration": "45 days",
         "total_enroll": "140",
         "mentor": "Jhankar Mahbub",
-        "course_details": ""
+        "course_details": "Node.js is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node."
     },
     {
         "id": "16",
@@ -157,6 +157,6 @@
         "duration": "20 days",
         "total_enroll": "115",
         "mentor": "Md Faisal",
-        "course_details": ""
+        "course_details": "Microsoft Excel enables users to format, organize and calculate data in a spreadsheet. By organizing data using software like Excel, data analysts and other users can make information easier to view as data is added or changed. Excel contains a large number of boxes called cells that are ordered in rows and columns."
     }
 ]
