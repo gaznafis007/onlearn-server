@@ -1,14 +1,14 @@
 [
     {
         "id": "1",
-        "name": "Coding"
+        "name": "coding"
     },
     {
         "id": "02",
-        "name": "Development"
+        "name": "development"
     },
     {
         "id": "03",
-        "name": "Basic"
+        "name": "basic"
     }
 ]
