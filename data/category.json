@@ -10,5 +10,17 @@
     {
         "id": "03",
         "name": "basic"
+    },
+    {
+        "id": "4",
+        "name": "app development"
+    },
+    {
+        "id": "05",
+        "name": "graphics"
+    },
+    {
+        "id": "06",
+        "name": "robotics"
     }
 ]
